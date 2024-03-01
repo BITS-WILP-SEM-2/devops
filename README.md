@@ -1,2 +1,2 @@
-# devops
-Repository for devops project of 2nd sem, WILP BITS
+# QuizIT-Frontend
+Repository for devops project frontend
